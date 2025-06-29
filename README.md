@@ -122,11 +122,7 @@ Submit a pull request with clear documentation.
 
 This project is open-source and available under the [MIT License](LICENSE).
 
----
 
-```
-
----
 
 # JobConnectLK 📱🇱🇰
 
